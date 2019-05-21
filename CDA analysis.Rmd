@@ -1,0 +1,14 @@
+---
+title: "Crowd Sourced Data Analysis"
+author: "Georgina Hazell"
+date: "21 May 2019"
+output: html_document
+---
+# load data
+
+Our group of interepid scientists chose the 'faithful' dataset
+
+```{r}
+df <- faithful
+
+```
